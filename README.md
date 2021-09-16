@@ -18,7 +18,8 @@ RETROFIT
 
 JETPACK COMPOSE NAVIGATION
 
-![Screenshot_20210916-203532_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133678576-27efbd99-5d6b-40b1-b1c8-425a61fe6348.jpg
+![Screenshot_20210916-203532_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133678853-56ccc1f7-3ab9-4d20-9a53-a97326679b16.jpg)
+
 ![Screenshot_20210916-203536_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133678592-d92073dc-6b0d-4b36-96ab-4764e7219d52.jpg)
 ![Screenshot_20210916-203554_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133678609-73bbfd59-f91e-4763-b669-5be50fbf9f60.jpg)
 )
