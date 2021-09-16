@@ -18,15 +18,13 @@ RETROFIT
 
 JETPACK COMPOSE NAVIGATION
 
-
-![Screenshot_20210916-203532_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133677210-d64421d1-8f63-4df7-8c9c-8a419773199d.jpg
-![Screenshot_20210916-203536_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133677275-84999561-60c3-4678-97ad-bfbc25036b36.jpg)
-
-![Screenshot_20210916-203554_CryptocurrencyAppYT](https://user-images.githubuser
-![Screenshot_20210916-203532_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133678345-e894b793-3abb-412e-b112-70cc878f0d62.jpg)
-content.com/44091450/133677355-e8f08b54-ed0d-4d13-ba2b-b82e758b093d.jpg)
-![Screenshot_20210916-203545_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133677358-b597c420-8ad5-4e25-ad44-5dbe1c8e1dda.jpg)
+![Screenshot_20210916-203532_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133678576-27efbd99-5d6b-40b1-b1c8-425a61fe6348.jpg
+![Screenshot_20210916-203536_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133678592-d92073dc-6b0d-4b36-96ab-4764e7219d52.jpg)
+![Screenshot_20210916-203554_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133678609-73bbfd59-f91e-4763-b669-5be50fbf9f60.jpg)
 )
-![Screenshot_20210916-203545_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133678385-12852108-a1fa-4e0e-b59d-406039323f18.jpg)
+![Screenshot_20210916-203545_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133678664-ade13813-0cd1-4bf9-aa72-1045d8cbaadc.jpg)
+![Screenshot_20210916-203542_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133678694-6d7e6994-b215-4024-b7ff-c2b16ab7cf15.jpg)
+
+![Screenshot_20210916-203514_CryptocurrencyAppYT](https://user-images.githubusercontent.com/44091450/133678709-db700cae-18c6-4a59-a86a-94e8ec72dbdf.jpg)
 
 
